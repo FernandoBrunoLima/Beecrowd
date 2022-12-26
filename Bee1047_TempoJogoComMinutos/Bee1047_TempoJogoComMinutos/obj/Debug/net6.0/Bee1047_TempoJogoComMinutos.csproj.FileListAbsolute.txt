@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\bin\Debug\net6.0\Bee1047_TempoJogoComMinutos.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\bin\Debug\net6.0\Bee1047_TempoJogoComMinutos.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\bin\Debug\net6.0\Bee1047_TempoJogoComMinutos.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\bin\Debug\net6.0\Bee1047_TempoJogoComMinutos.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\bin\Debug\net6.0\Bee1047_TempoJogoComMinutos.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\refint\Bee1047_TempoJogoComMinutos.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\Bee1047_TempoJogoComMinutos.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1047_TempoJogoComMinutos\Bee1047_TempoJogoComMinutos\obj\Debug\net6.0\ref\Bee1047_TempoJogoComMinutos.dll

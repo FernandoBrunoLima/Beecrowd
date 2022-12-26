@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\bin\Debug\net6.0\Bee1048_AumentoSalario.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\bin\Debug\net6.0\Bee1048_AumentoSalario.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\bin\Debug\net6.0\Bee1048_AumentoSalario.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\bin\Debug\net6.0\Bee1048_AumentoSalario.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\bin\Debug\net6.0\Bee1048_AumentoSalario.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\refint\Bee1048_AumentoSalario.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\Bee1048_AumentoSalario.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1048_AumentoSalario\Bee1048_AumentoSalario\obj\Debug\net6.0\ref\Bee1048_AumentoSalario.dll

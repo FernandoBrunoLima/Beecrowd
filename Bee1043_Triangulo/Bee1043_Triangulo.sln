@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee1043_Triangulo", "Bee1043_Triangulo\Bee1043_Triangulo.csproj", "{99582BB8-A011-40FB-98BD-0F22E5D82D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99582BB8-A011-40FB-98BD-0F22E5D82D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99582BB8-A011-40FB-98BD-0F22E5D82D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99582BB8-A011-40FB-98BD-0F22E5D82D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99582BB8-A011-40FB-98BD-0F22E5D82D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4149B44-6664-4597-A73F-081EBC18E748}
+	EndGlobalSection
+EndGlobal

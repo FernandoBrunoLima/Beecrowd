@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\bin\Debug\net6.0\Bee1004_SimpleProduct.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\bin\Debug\net6.0\Bee1004_SimpleProduct.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\bin\Debug\net6.0\Bee1004_SimpleProduct.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\bin\Debug\net6.0\Bee1004_SimpleProduct.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\bin\Debug\net6.0\Bee1004_SimpleProduct.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\refint\Bee1004_SimpleProduct.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\Bee1004_SimpleProduct.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1004_SimpleProduct\Bee1004_SimpleProduct\obj\Debug\net6.0\ref\Bee1004_SimpleProduct.dll

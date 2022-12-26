@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\bin\Debug\net6.0\Bee1052_Mes.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\bin\Debug\net6.0\Bee1052_Mes.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\bin\Debug\net6.0\Bee1052_Mes.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\bin\Debug\net6.0\Bee1052_Mes.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\bin\Debug\net6.0\Bee1052_Mes.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\refint\Bee1052_Mes.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\Bee1052_Mes.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1052_Mes\Bee1052_Mes\obj\Debug\net6.0\ref\Bee1052_Mes.dll

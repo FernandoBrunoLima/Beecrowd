@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\bin\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\bin\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\bin\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\bin\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\bin\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\refint\Bee1041_Coordenadas_de_um_Ponto.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\Bee1041_Coordenadas_de_um_Ponto.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1041_Coordenadas_de_um_Ponto\Bee1041_Coordenadas_de_um_Ponto\obj\Debug\net6.0\ref\Bee1041_Coordenadas_de_um_Ponto.dll

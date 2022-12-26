@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bee1003_SimpleSum/1.0.0": {
+        "runtime": {
+          "Bee1003_SimpleSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bee1003_SimpleSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

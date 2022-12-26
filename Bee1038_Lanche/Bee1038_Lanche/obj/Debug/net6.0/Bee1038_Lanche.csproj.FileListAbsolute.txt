@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\bin\Debug\net6.0\Bee1038_Lanche.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\bin\Debug\net6.0\Bee1038_Lanche.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\bin\Debug\net6.0\Bee1038_Lanche.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\bin\Debug\net6.0\Bee1038_Lanche.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\bin\Debug\net6.0\Bee1038_Lanche.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\refint\Bee1038_Lanche.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\Bee1038_Lanche.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1038_Lanche\Bee1038_Lanche\obj\Debug\net6.0\ref\Bee1038_Lanche.dll

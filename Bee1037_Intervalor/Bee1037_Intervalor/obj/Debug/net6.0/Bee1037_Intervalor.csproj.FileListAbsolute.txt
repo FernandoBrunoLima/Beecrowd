@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\bin\Debug\net6.0\Bee1037_Intervalor.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\bin\Debug\net6.0\Bee1037_Intervalor.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\bin\Debug\net6.0\Bee1037_Intervalor.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\bin\Debug\net6.0\Bee1037_Intervalor.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\bin\Debug\net6.0\Bee1037_Intervalor.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\refint\Bee1037_Intervalor.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\Bee1037_Intervalor.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1037_Intervalor\Bee1037_Intervalor\obj\Debug\net6.0\ref\Bee1037_Intervalor.dll

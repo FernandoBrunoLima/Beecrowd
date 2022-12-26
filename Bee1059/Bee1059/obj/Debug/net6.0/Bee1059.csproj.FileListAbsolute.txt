@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\refint\Bee1059.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1059\Bee1059\obj\Debug\net6.0\ref\Bee1059.dll

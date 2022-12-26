@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\bin\Debug\net6.0\Bee1050_DDD.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\bin\Debug\net6.0\Bee1050_DDD.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\bin\Debug\net6.0\Bee1050_DDD.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\bin\Debug\net6.0\Bee1050_DDD.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\bin\Debug\net6.0\Bee1050_DDD.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\refint\Bee1050_DDD.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\Bee1050_DDD.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1050_DDD\Bee1050_DDD\obj\Debug\net6.0\ref\Bee1050_DDD.dll

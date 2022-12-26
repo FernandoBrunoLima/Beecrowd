@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\bin\Debug\net6.0\Bee1005_Average1.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\bin\Debug\net6.0\Bee1005_Average1.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\bin\Debug\net6.0\Bee1005_Average1.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\bin\Debug\net6.0\Bee1005_Average1.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\bin\Debug\net6.0\Bee1005_Average1.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\refint\Bee1005_Average1.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\Bee1005_Average1.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1005_Average1\Bee1005_Average1\obj\Debug\net6.0\ref\Bee1005_Average1.dll

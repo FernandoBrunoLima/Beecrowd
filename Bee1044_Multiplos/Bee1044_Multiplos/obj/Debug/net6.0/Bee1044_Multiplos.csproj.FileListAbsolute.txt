@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\bin\Debug\net6.0\Bee1044_Multiplos.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\bin\Debug\net6.0\Bee1044_Multiplos.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\bin\Debug\net6.0\Bee1044_Multiplos.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\bin\Debug\net6.0\Bee1044_Multiplos.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\bin\Debug\net6.0\Bee1044_Multiplos.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\refint\Bee1044_Multiplos.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\Bee1044_Multiplos.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1044_Multiplos\Bee1044_Multiplos\obj\Debug\net6.0\ref\Bee1044_Multiplos.dll

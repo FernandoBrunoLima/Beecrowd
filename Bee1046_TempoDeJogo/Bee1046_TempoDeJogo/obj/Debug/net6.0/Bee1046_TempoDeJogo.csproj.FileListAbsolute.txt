@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\bin\Debug\net6.0\Bee1046_TempoDeJogo.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\bin\Debug\net6.0\Bee1046_TempoDeJogo.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\bin\Debug\net6.0\Bee1046_TempoDeJogo.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\bin\Debug\net6.0\Bee1046_TempoDeJogo.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\bin\Debug\net6.0\Bee1046_TempoDeJogo.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\refint\Bee1046_TempoDeJogo.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\Bee1046_TempoDeJogo.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1046_TempoDeJogo\Bee1046_TempoDeJogo\obj\Debug\net6.0\ref\Bee1046_TempoDeJogo.dll

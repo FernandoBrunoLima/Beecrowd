@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\bin\Debug\net6.0\Bee1115.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\bin\Debug\net6.0\Bee1115.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\bin\Debug\net6.0\Bee1115.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\bin\Debug\net6.0\Bee1115.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\bin\Debug\net6.0\Bee1115.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\refint\Bee1115.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\Bee1115.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1115\Bee1115\obj\Debug\net6.0\ref\Bee1115.dll

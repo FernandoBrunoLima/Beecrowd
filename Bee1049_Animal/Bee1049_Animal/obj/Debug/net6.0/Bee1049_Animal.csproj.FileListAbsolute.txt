@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\bin\Debug\net6.0\Bee1049_Animal.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\bin\Debug\net6.0\Bee1049_Animal.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\bin\Debug\net6.0\Bee1049_Animal.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\bin\Debug\net6.0\Bee1049_Animal.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\bin\Debug\net6.0\Bee1049_Animal.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\refint\Bee1049_Animal.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\Bee1049_Animal.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1049_Animal\Bee1049_Animal\obj\Debug\net6.0\ref\Bee1049_Animal.dll

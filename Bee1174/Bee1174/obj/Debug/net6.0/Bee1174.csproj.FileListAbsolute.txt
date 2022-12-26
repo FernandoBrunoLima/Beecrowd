@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\bin\Debug\net6.0\Bee1174.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\bin\Debug\net6.0\Bee1174.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\bin\Debug\net6.0\Bee1174.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\bin\Debug\net6.0\Bee1174.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\bin\Debug\net6.0\Bee1174.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\refint\Bee1174.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\Bee1174.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1174\Bee1174\obj\Debug\net6.0\ref\Bee1174.dll

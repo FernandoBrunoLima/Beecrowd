@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\bin\Debug\net6.0\Bee1007_Diferenca.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\bin\Debug\net6.0\Bee1007_Diferenca.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\bin\Debug\net6.0\Bee1007_Diferenca.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\bin\Debug\net6.0\Bee1007_Diferenca.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\bin\Debug\net6.0\Bee1007_Diferenca.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\refint\Bee1007_Diferenca.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\Bee1007_Diferenca.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1007_Diferenca\Bee1007_Diferenca\obj\Debug\net6.0\ref\Bee1007_Diferenca.dll

@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\bin\Debug\net6.0\Bee1043_Triangulo.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\bin\Debug\net6.0\Bee1043_Triangulo.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\bin\Debug\net6.0\Bee1043_Triangulo.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\bin\Debug\net6.0\Bee1043_Triangulo.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\bin\Debug\net6.0\Bee1043_Triangulo.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\refint\Bee1043_Triangulo.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\Bee1043_Triangulo.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1043_Triangulo\Bee1043_Triangulo\obj\Debug\net6.0\ref\Bee1043_Triangulo.dll

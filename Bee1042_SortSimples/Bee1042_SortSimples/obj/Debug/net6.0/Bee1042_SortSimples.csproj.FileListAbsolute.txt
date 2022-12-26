@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\bin\Debug\net6.0\Bee1042_SortSimples.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\bin\Debug\net6.0\Bee1042_SortSimples.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\bin\Debug\net6.0\Bee1042_SortSimples.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\bin\Debug\net6.0\Bee1042_SortSimples.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\bin\Debug\net6.0\Bee1042_SortSimples.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\refint\Bee1042_SortSimples.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\Bee1042_SortSimples.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1042_SortSimples\Bee1042_SortSimples\obj\Debug\net6.0\ref\Bee1042_SortSimples.dll

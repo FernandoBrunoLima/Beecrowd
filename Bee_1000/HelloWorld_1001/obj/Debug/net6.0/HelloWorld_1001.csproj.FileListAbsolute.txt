@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\bin\Debug\net6.0\HelloWorld_1001.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\bin\Debug\net6.0\HelloWorld_1001.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\bin\Debug\net6.0\HelloWorld_1001.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\bin\Debug\net6.0\HelloWorld_1001.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\bin\Debug\net6.0\HelloWorld_1001.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\refint\HelloWorld_1001.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\HelloWorld_1001.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\beecrowd\HelloWorld_1001\HelloWorld_1001\obj\Debug\net6.0\ref\HelloWorld_1001.dll

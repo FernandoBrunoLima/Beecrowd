@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\bin\Debug\net6.0\Bee1040_media3.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\bin\Debug\net6.0\Bee1040_media3.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\bin\Debug\net6.0\Bee1040_media3.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\bin\Debug\net6.0\Bee1040_media3.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\bin\Debug\net6.0\Bee1040_media3.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\refint\Bee1040_media3.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\Bee1040_media3.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Beecrowd\Bee1040_media3\Bee1040_media3\obj\Debug\net6.0\ref\Bee1040_media3.dll
